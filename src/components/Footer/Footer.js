@@ -1,4 +1,5 @@
 import React from 'react'; 
+
 const Footer = () => {
     return (
     <footer className="page-footer font-small blue py-3 bg-success text-white">

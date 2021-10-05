@@ -28,7 +28,7 @@ const Contact = () => {
             <Col style={{textAlign: 'left'}}>
                 <h2 className="pb-2">Contact Us</h2>
                 <p>Manhattan, New York, USA.
-                <br/>Email: binary@gmail.com 
+                <br/>Email: binarycare@gmail.com 
                 <br/>Phone: +134756987
                 </p>
             </Col>
