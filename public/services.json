@@ -4,7 +4,6 @@
         "index": 0,
         "icon": "https://mcusercontent.com/4999aaf67c91a1b8a6f48ee4a/images/cb1e2c31-d359-e26d-5cf6-8cd420dd7107.png",
         "title": "Web Development",
-        "price" : 4500,
         "body": "We will design and develop your dynamic or statics website. As per your company requirement."
       },
       {
@@ -12,7 +11,6 @@
         "index": 1,
         "icon": "https://mcusercontent.com/4999aaf67c91a1b8a6f48ee4a/images/96eb78cf-52da-1019-f219-555ba2204783.png",
         "title": "Apps Development",
-        "price" : 5500,
         "body": "We will build react native apps for your business and institute, as per your requirement."
       },
     {
@@ -20,7 +18,6 @@
       "index": 2,
       "icon": "https://mcusercontent.com/4999aaf67c91a1b8a6f48ee4a/images/11984549-5963-6c29-5614-85e7405e1679.png",
       "title": "Graphics Design",
-      "price" : 6500,
       "body": "We will provides latest look Web and apps interface and other graphical components."
     },
     {
@@ -28,7 +25,6 @@
       "index": 3,
       "icon": "https://mcusercontent.com/4999aaf67c91a1b8a6f48ee4a/images/2072cdb2-9047-b0ab-27b0-92e82e0b70f1.png",
       "title": "Digital Marketing",
-      "price" : 7500,
       "body": "We will provides all kinds of business leads eg. Personal Email, Company Email, Personal contact etc."
     },
     {
@@ -36,7 +32,6 @@
         "index": 4,
         "icon": "https://mcusercontent.com/4999aaf67c91a1b8a6f48ee4a/images/f2468c33-9c03-fbe7-5a44-6f2f5ef27b81.png",
         "title": "Email Marketing",
-        "price" : 3500,
         "body": "We will provides Email Marketing services. We also provides responsive html email template."
       },
     {
@@ -44,7 +39,6 @@
       "index": 5,
       "icon": "https://mcusercontent.com/4999aaf67c91a1b8a6f48ee4a/images/eca43046-de9d-92f4-2573-8d4919b82fc1.png",
       "title": "Cisco Networking",
-      "price" : 15500,
       "body": "We can helps you to setup your official internet system and internal communication system."
     },
     {
@@ -52,7 +46,6 @@
       "index": 6,
       "icon": "https://mcusercontent.com/4999aaf67c91a1b8a6f48ee4a/images/f0575355-49e7-e649-b066-1827d99b042b.png",
       "title": "UI/UX Design",
-      "price" : 18000,
       "body": "We will provides all of google absence services. Such as analysis, monthly revenued and so on."
     },
     
@@ -61,7 +54,6 @@
       "index": 7,
       "icon": "https://mcusercontent.com/4999aaf67c91a1b8a6f48ee4a/images/fb631d63-f13b-824b-c068-9117ff835b14.png",
       "title": "Seo Expert",
-      "price" : 4500,
       "body": "Seo will helps you to increase your business. We will provide onpage and offpage seo service."
     },
     {
@@ -69,7 +61,6 @@
       "index": 8,
       "icon": "https://mcusercontent.com/4999aaf67c91a1b8a6f48ee4a/images/38ae65f8-ef81-3e99-a978-8a20345c80f8.png",
       "title": "Admin Support",
-      "price" : 2500,
       "body": "We also provides all kinds of admin supported service. Such as Customer email reply, technical help etc."
     }
   ]
